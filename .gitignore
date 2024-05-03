@@ -2,6 +2,8 @@
 .classpath
 .project
 nbproject/private/
+/.gradle
+/.idea
 build/
 dist/
 *.wad
